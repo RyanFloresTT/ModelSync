@@ -1,8 +1,0 @@
-{
-    "watchFile": "models/bookResponse.go",
-    "targets": [
-      { "language": "TypeScript", "output": "frontend//BookResponse.tsx" },
-      { "language": "C#", "output": "shared/BookResponse.cs" }
-    ]
-}
-  

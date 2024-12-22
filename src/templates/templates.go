@@ -1,4 +1,4 @@
-package main
+package templates
 
 import (
 	"fmt"
@@ -20,7 +20,8 @@ public class {{.Name}} {
 {{end}}}
 `,
 
-	"cpp": `// Auto-generated C++ struct
+	"cpp": `#include <string> 
+// Auto-generated C++ struct
 struct {{.Name}} {
 {{range .Fields}}	{{.Type}} {{.Name}};
 {{end}}};
