@@ -6,7 +6,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/RyanFloresTT/ModelSync/models"
+	"github.com/RyanFloresTT/ModelSync/pkg/models"
 )
 
 type TypeScriptParser struct{}

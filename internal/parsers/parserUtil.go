@@ -5,7 +5,7 @@ import (
 	"go/ast"
 	"path/filepath"
 
-	"github.com/RyanFloresTT/ModelSync/models"
+	"github.com/RyanFloresTT/ModelSync/pkg/models"
 )
 
 func GetParser(filePath string) (Parser, error) {

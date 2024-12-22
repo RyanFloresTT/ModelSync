@@ -7,7 +7,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/RyanFloresTT/ModelSync/models"
+	"github.com/RyanFloresTT/ModelSync/pkg/models"
 )
 
 // ParseGoFile parses a Go file and extracts struct information

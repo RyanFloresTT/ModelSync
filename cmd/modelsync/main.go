@@ -7,9 +7,9 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/RyanFloresTT/ModelSync/models"
-	"github.com/RyanFloresTT/ModelSync/parsers"
-	"github.com/RyanFloresTT/ModelSync/templates"
+	"github.com/RyanFloresTT/ModelSync/internal/parsers"
+	"github.com/RyanFloresTT/ModelSync/internal/templates"
+	"github.com/RyanFloresTT/ModelSync/pkg/models"
 	"github.com/fsnotify/fsnotify"
 )
 
