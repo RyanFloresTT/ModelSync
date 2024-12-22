@@ -68,12 +68,6 @@ Thank you for considering contributing to ModelSync! We welcome contributions fr
 
 ---
 
-## Code of Conduct
-
-Please read and follow our [Code of Conduct](CODE_OF_CONDUCT.md).
-
----
-
 ## Need Help?
 
 If you have any questions, feel free to reach out by opening an issue. We’re happy to help!
