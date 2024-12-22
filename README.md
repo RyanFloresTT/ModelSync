@@ -15,7 +15,7 @@ ModelSync is an open-source tool designed to simplify model synchronization acro
 You can install ModelSync using Go:
 
 ```bash
-go install github.com/YourUsername/ModelSync@latest
+go install github.com/RyanFloresTT/ModelSync@latest
 ```
 
 This will install the `modelsync` binary to your `$GOPATH/bin` directory, making it accessible system-wide.
