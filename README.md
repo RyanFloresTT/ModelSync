@@ -87,15 +87,15 @@ The `syncConfig.json` file contains the following fields:
 Example configuration:
 ```json
 {
-  "WatchFile": "models/sample.go",
-  "Targets": [
+  "watchFile": "models/sample.go",
+  "targets": [
     {
-      "Language": "typescript",
-      "Output": "frontend/src/models/BookResponse.tsx"
+      "language": "typescript",
+      "output": "frontend/src/models/BookResponse.tsx"
     },
     {
-      "Language": "csharp",
-      "Output": "shared/Models/BookResponse.cs"
+      "language": "csharp",
+      "output": "shared/Models/BookResponse.cs"
     }
   ]
 }
